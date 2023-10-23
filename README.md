@@ -24,6 +24,8 @@ Mengonfigurasi Nama Pengguna:
    ## Installation (virtual environment)
  - python -m venv  .venv
  - .\.venv\Scripts\python.exe for activate environment
+
+ - # Bukti Pengerjaan
  - ![Screenshot 2023-10-23 200002](https://github.com/Pynixz/LAB2PY/assets/147568964/b7ed2f5d-cfc4-4a3b-8632-383222810ba7)
  - ![Screenshot 2023-10-23 195550](https://github.com/Pynixz/LAB2PY/assets/147568964/1d54ddfa-6e34-410e-8621-d7376ceac051)
  - ![Screenshot 2023-10-23 201026](https://github.com/Pynixz/LAB2PY/assets/147568964/4d286907-07c0-4726-a8f7-10702868720a)
