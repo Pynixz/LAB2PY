@@ -27,4 +27,4 @@ Mengonfigurasi Nama Pengguna:
  - ![Screenshot 2023-10-23 200002](https://github.com/Pynixz/LAB2PY/assets/147568964/b7ed2f5d-cfc4-4a3b-8632-383222810ba7)
  - ![Screenshot 2023-10-23 195550](https://github.com/Pynixz/LAB2PY/assets/147568964/1d54ddfa-6e34-410e-8621-d7376ceac051)
  - ![Screenshot 2023-10-23 201026](https://github.com/Pynixz/LAB2PY/assets/147568964/4d286907-07c0-4726-a8f7-10702868720a)
- - ![Screenshot 2023-10-23 200002](https://github.com/Pynixz/LAB2PY/assets/147568964/0ffa1e78-a068-4850-a46f-295394680be2)
+ - ![Screenshot 2023-10-23 195726](https://github.com/Pynixz/LAB2PY/assets/147568964/208d75b6-dbc5-4b8b-8fe0-3548477d4b80)
